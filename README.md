@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Kamini Kaushal Singh
-
+<figure>
+  <img align="left" alt="." src="https://github.com/Kamini099/Kamini099/blob/main/Little.png" >
+  <figcaption>
 🔭 I’m currently working on an AI ML web project aimed at bringing justice through innovative technology solutions.
 
 🌱 I’m currently learning about Blockchain and its applications in various industries.
@@ -9,7 +11,10 @@
 📫 How to reach me:
 - Email: kam123inisingh@gmail.com
 - LinkedIn: [Kamini Kaushal Singh](https://www.linkedin.com/in/kamini-kaushal-singh-646068232/)
-- GitHub: [Kamini099](https://github.com/Kamini099)
+- GitHub: [Kamini099](https://github.com/Kamini099)</figcaption>
+
+</figure>
+
 
 😄 Pronouns: She/Her
 
