@@ -14,7 +14,7 @@
 - GitHub: [Kamini099](https://github.com/Kamini099)</figcaption>
 
 </figure>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamini099&hide=contribs,prs)
 
 😄 Pronouns: She/Her
 
