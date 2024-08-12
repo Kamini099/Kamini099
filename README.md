@@ -2,7 +2,8 @@
 <figure>
   <img align="left" alt="." src="https://github.com/Kamini099/Kamini099/blob/main/Little.png">
   <figcaption>
-    
+🔭 I’m currently working on an AI ML web project aimed at bringing justice through innovative technology solutions.
+
 🌱 I’m currently learning about Blockchain and its applications in various industries.
 
 💬 Ask me about my journey in web development, my experiences with different programming languages, or anything related to technology!
@@ -14,7 +15,12 @@
   </figcaption>
 </figure>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamini099)](https://github.com/kamini099/github-readme-stats)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Kamini099&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Kamini099's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamini099&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Kamini099's Top Languages" /></td>
+  </tr>
+</table>
 
 😄 Pronouns: She/Her
 
@@ -52,20 +58,14 @@
 
 ## 🎓 Education
 
-- **B.Tech in Information Technology**  
-  National Institute of Technology, Jalandhar  
-  (2021-2025)  
-  CGPA: 7.42
+<table>
+  <tr>
+    <td><strong>B.Tech in Information Technology</strong><br>National Institute of Technology, Jalandhar<br>(2021-2025)<br>CGPA: 7.42</td>
+    <td><strong>12th CBSE, Punjab</strong><br>Jawahar Navodaya Vidhyalaya, Pathankot<br>(2020-2021)<br>Percentage: 91%</td>
+    <td><strong>10th CBSE, Punjab</strong><br>Jawahar Navodaya Vidhyalaya, Pathankot<br>(2018-2019)<br>Percentage: 91%</td>
+  </tr>
+</table>
 
-- **12th CBSE, Punjab**  
-  Jawahar Navodaya Vidhyalaya, Pathankot  
-  (2020-2021)  
-  Percentage: 91%
-
-- **10th CBSE, Punjab**  
-  Jawahar Navodaya Vidhyalaya, Pathankot  
-  (2018-2019)  
-  Percentage: 91%
 
 ## 🌐 Interests and Activities
 
