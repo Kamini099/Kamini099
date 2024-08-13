@@ -2,8 +2,7 @@
 <figure>
   <img align="left" alt="." src="https://github.com/Kamini099/Kamini099/blob/main/Little.png">
   <figcaption>
-🔭 I’m currently working on an AI ML web project aimed at bringing justice through innovative technology solutions.
-
+    
 🌱 I’m currently learning about Blockchain and its applications in various industries.
 
 💬 Ask me about my journey in web development, my experiences with different programming languages, or anything related to technology!
